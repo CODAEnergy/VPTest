@@ -1,1 +1,3 @@
 This is Mars!
+Mars is Cool!
+Mars is Red!
